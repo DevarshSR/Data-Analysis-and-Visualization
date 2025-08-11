@@ -3,7 +3,7 @@ A collection of data analysis and visualization projects showcasing EDA, data cl
 This repository contains projects focused on Exploratory Data Analysis (EDA), data cleaning, and visual storytelling using Python.
 The goal is to transform raw datasets into meaningful insights through preprocessing, statistical analysis, and clear visualizations.
 
-Key Skills Demonstrated :
+**Key Skills Demonstrated :**
 - Data wrangling with Pandas & NumPy
   
 - Exploratory data analysis (EDA) techniques
