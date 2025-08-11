@@ -17,7 +17,7 @@ Key Skills Demonstrated :
 - Creating visual dashboards for insights
 
 
-*Tech Stack :*
+**Tech Stack :**
 
 Languages: Python
 
