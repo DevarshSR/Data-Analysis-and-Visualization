@@ -15,3 +15,12 @@ Key Skills Demonstrated :
 - Handling missing values, outliers, and data transformations
   
 - Creating visual dashboards for insights
+
+
+*Tech Stack :*
+
+Languages: Python
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+Tools: Jupyter Notebook, Google Colab, Visual Studio Code
