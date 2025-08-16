@@ -30,4 +30,4 @@ Tools: Jupyter Notebook, Google Colab, Visual Studio Code
 ## Table of contents:
 | No. 	| Datasets 																										| Tool   	|
 |---	| ---      																										| ---	 	|	
-|01		|[Movie Analysis](01-Movie%20Analysis)										| Python 	|
+|01		|[Movie Analysis](Movie%20Analysis)										| Python 	|
