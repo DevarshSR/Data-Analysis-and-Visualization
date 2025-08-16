@@ -24,3 +24,15 @@ Languages: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 Tools: Jupyter Notebook, Google Colab, Visual Studio Code
+
+
+
+## 📑 Table of Contents
+
+1. [Movie Analysis](#1-movie-analysis)
+   - Overview  
+   - Dataset Information  
+   - Exploratory Data Analysis  
+   - Key Insights  
+   - Visualizations  
+   - Technologies Used  
