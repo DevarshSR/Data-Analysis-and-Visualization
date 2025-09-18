@@ -46,4 +46,4 @@ This dataset contains information about **9,000 movies** from the TMDB API.
 
 ## Author
 
-Movie Analysis by Devarsh S R
+Movie Analysis by Devarsh S 
